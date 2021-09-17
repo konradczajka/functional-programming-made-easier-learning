@@ -17,6 +17,7 @@ to generate this file without the comments in this block.
     , "lists"
     , "maybe"
     , "tuples"
+    , "arrays"
     , "prelude"
     , "psci-support" ]
 , packages = ./packages.dhall
