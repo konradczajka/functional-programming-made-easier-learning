@@ -14,6 +14,7 @@ to generate this file without the comments in this block.
 , dependencies =
   [ "arrays"
   , "console"
+  , "contravariant"
   , "effect"
   , "foldable-traversable"
   , "integers"
@@ -22,6 +23,7 @@ to generate this file without the comments in this block.
   , "newtype"
   , "nonempty"
   , "prelude"
+  , "profunctor"
   , "psci-support"
   , "strings"
   , "tuples"
