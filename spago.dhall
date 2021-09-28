@@ -16,7 +16,9 @@ to generate this file without the comments in this block.
   , "bifunctors"
   , "console"
   , "contravariant"
+  , "control"
   , "effect"
+  , "either"
   , "foldable-traversable"
   , "integers"
   , "lists"
@@ -28,6 +30,7 @@ to generate this file without the comments in this block.
   , "psci-support"
   , "strings"
   , "tuples"
+  , "unfoldable"
   ]
 , packages = ./packages.dhall
 , sources = [ "src/**/*.purs", "test/**/*.purs" ]
