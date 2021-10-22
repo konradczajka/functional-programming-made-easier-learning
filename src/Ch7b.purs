@@ -1,7 +1,6 @@
 module Ch7b where
 
 import Prelude
-import Data.Newtype (class Newtype)
 import Data.Generic.Rep (class Generic)
 import Data.Show.Generic (genericShow)
 import Effect (Effect)
