@@ -7,7 +7,7 @@ import Affjax as Ajax
 import Affjax.RequestBody as RequestBody
 import Affjax.ResponseFormat as ResponseFormat
 import Control.Monad.Except (runExcept)
-import Data.Bifunctor (bimap)
+-- import Data.Bifunctor (bimap)
 import Data.Either (Either(..))
 import Data.Generic.Rep (class Generic)
 import Data.Maybe (Maybe(..))
